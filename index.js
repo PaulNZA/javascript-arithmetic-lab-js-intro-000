@@ -29,3 +29,7 @@ function decrement (number) {
 function makeInt(numberstring) {
   return parseInt(numberstring, 10)
 }
+
+function preserveDecimal(numberstring) {
+  return parseFloat(numberstring, 10)
+}
