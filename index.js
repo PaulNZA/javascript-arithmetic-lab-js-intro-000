@@ -9,4 +9,9 @@ function subtract(number1, number2) {
 }
 
 
-//, multiply(), divide()
+function multiply(number1, number2) {
+  number1 * number2
+}
+
+
+divide()
