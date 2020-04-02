@@ -21,3 +21,8 @@ function increment (number) {
  number++
   return number
 }
+
+function decrement (number) {
+ number--
+  return number
+}
